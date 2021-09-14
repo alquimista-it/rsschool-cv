@@ -1,1 +1,1 @@
-# rsschool-cv
+https://alquimista-it.github.io/rsschool-cv/cv
